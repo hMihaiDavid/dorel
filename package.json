@@ -1,0 +1,19 @@
+{
+  "name": "dorel",
+  "version": "0.0.0",
+  "description": "Work in progress, reserving name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hMihaiDavid/dorel.git"
+  },
+  "author": "Horia Mihai David",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hMihaiDavid/dorel/issues"
+  },
+  "homepage": "https://github.com/hMihaiDavid/dorel#readme"
+}
